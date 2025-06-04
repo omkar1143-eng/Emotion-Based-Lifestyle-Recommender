@@ -1,9 +1,6 @@
 
 # 🎭 Emotion-Based Lifestyle Recommender
 
-**Created by Kandukuri Omkar**  
-📧 omkark5125@gmail.com
-
 
 ## 🧠 Project Overview
 
